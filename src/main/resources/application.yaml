@@ -1,0 +1,16 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            clientId: 31723240460-b6huirifs8uhme937btpi07jjijo1qk0.apps.googleusercontent.com
+            clientSecret: LnKnM9H5lJS91wltlKrjTkhI
+
+#spring.security.oauth2.client.registration.facebook.client-id=<your client id>
+#spring.security.oauth2.client.registration.facebook.client-secret=<your client secret>
+
+
+#https://www.baeldung.com/spring-security-5-oauth2-login
+
+#https://www.callicoder.com/spring-boot-security-oauth2-social-login-part-1/
